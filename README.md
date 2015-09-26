@@ -1,4 +1,10 @@
-dash-rai.github.io
-==================
+HTML5 Muffin chocchip steps
+============================
 
-What makes ranting easy: A Jekyll powered blog.
+Run bundle install
+
+	bundle install
+
+Run jekyll
+
+	jekyll
